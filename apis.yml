@@ -23,14 +23,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/meridian-data.png
 name: Meridian Data
-description: Meridian Data, Inc. was a Battery Ventures-backed maker of network-attached
-  storage (NAS) appliances, best known for the Snap! Server workgroup NAS line and one
-  of the industry's first storage operating systems for entry- and workgroup-level
-  appliances. Quantum Corporation acquired Meridian Data in a stock swap valued at
-  roughly $85M, completed June 1, 1999, folding its technology into Quantum's storage
-  systems strategy. The company has not operated independently since and publishes no
-  current developer or API surface; this profile is retained for API Evangelist network
-  completeness as a historical, acquired entity.
+description: Meridian Data, Inc. was a Battery Ventures-backed maker of network-attached storage (NAS)
+  appliances, best known for the Snap! Server workgroup NAS line and one of the industry's first storage
+  operating systems for entry- and workgroup-level appliances. Quantum Corporation acquired Meridian Data
+  in a stock swap valued at roughly $85M, completed June 1, 1999, folding its technology into Quantum's
+  storage systems strategy. The company has not operated independently since and publishes no current
+  developer or API surface; this profile is retained for API Evangelist network completeness as a historical,
+  acquired entity.
 url: https://raw.githubusercontent.com/api-evangelist/meridian-data/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -38,12 +37,12 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: acquired
+x-status: defunct
 x-acquired-by: quantum-corporation
 x-acquired-date: '1999-06-01'
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Storage
